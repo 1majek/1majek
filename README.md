@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Steven Majek, a full stack developer based in Barcelona / Spain
+## Hi there 👋, I'm Steven Majek, a full stack developer based in Palma de mallorca / Spain
 <br />
 
 #### 🕵️ I love to solve problems and design apps 
