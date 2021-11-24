@@ -8,7 +8,7 @@
 
 🌱 I’m learning **more React, Redux & TypeScript**   
 
-👨‍💻 You can snoop my experience at [https://www.linkedin.com/in/carlosdsv/](https://www.linkedin.com/in/carlosdsv/)
+👨‍💻 You can snoop my experience at [https://www.linkedin.com/in/steven-majek/](https://www.linkedin.com/in/steven-majek/)
 <br /><br />
 
 ### Learning constantly, but right now:
