@@ -4,7 +4,7 @@
 #### 🕵️ I love to solve problems and design apps 
 🏗️ Love coding
 
-🤓 I’m currently working on [yomi](https://yomigo.app)
+🤓 I’m currently working on [Yomi](https://yomigo.app)
 🌱 I’m learning **React and few others**   
 
 👨‍💻 You can snoop my experience at [https://www.linkedin.com/in/steven-majek/](https://www.linkedin.com/in/steven-majek/)
